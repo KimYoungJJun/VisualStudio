@@ -1,0 +1,16 @@
+﻿  3.c
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\3.c(15): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  main.c
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(9): warning C4013: 'make2dArray'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(9): warning C4047: '=': 'int **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(10): warning C4013: 'init2dArray'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(10): warning C4047: '=': 'int **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(12): warning C4047: '=': 'int **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(13): warning C4047: '=': 'int **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(15): warning C4047: '=': 'int **'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(17): warning C4013: 'add'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(19): warning C4013: 'print2dArray'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\대학교\2학년 1학기\자료구조+응용\응용\ds03\3\main.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  3.vcxproj -> D:\대학교\2학년 1학기\자료구조+응용\응용\DS03\Debug\3.exe
